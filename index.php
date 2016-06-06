@@ -312,4 +312,6 @@ switch (ENVIRONMENT)
  *
  * And away we go...
  */
+	echo 'abc';
+	
 require_once BASEPATH.'core/CodeIgniter.php';
